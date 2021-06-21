@@ -1,0 +1,90 @@
+body {
+    font-family: sans-serif;
+    background:rgb(177, 219, 128);
+}
+header{
+    background-color: rgb(88, 163, 58);
+    border-left: 20px double rgb(255, 255, 255);
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    background-image: url("https://progameguides.com/wp-content/uploads/2019/11/featured-bee-swarm-simulator-codes.jpg");
+  background-repeat: repeat;
+}
+header h1{
+    text-align: left;
+    padding-top: 100px;
+    margin-right: 200px;
+    margin-left: 10px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 36px;
+    color:rgb(255, 251, 233);
+    }
+
+nav{
+    text-align: left;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+nav a{
+text-decoration: none;
+padding: 20px;
+margin-left: 10px;
+color: rgb(36, 34, 32);
+font-weight: bold;
+}
+main{
+    background-color:rgb(177, 219, 128); 
+    
+}
+main h2{
+   
+    margin-bottom: 40px;
+    color: rgb(36, 34, 32);
+   
+}
+main h1{
+    margin-left: 30px; 
+    padding-top: 100px; 
+    font-size: 42px;
+}
+main p{
+    margin-left: 30px; 
+    color: rgb(0, 0, 0);
+    font-size: 28px;
+    font-weight: 100;
+}
+li{
+    text-align: left;
+}
+details{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+details p{
+    color:rgb(255, 251, 233);
+    font-weight: bold;
+    background-color: rgb(88, 163, 58);
+}
+main img{
+    margin-top: 100px;
+    margin-left: 30px; 
+}
+footer{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    text-align:center;
+    font-size: 14px;
+}
+footer a{
+    text-decoration: none;
+    color: green;
+}
+#mark{
+    color: white;
+    margin-right: 300px;
+  }
+ 

@@ -1,0 +1,108 @@
+body {
+    font-family: sans-serif;
+    background:rgb(177, 219, 128);
+}
+header{
+    background-color: rgb(88, 163, 58);
+    border-left: 20px double rgb(255, 255, 255);
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    background-image: url("https://www.oum.ru/upload/iblock/4a6/4a689562637ffe31a94e1770388395f8.jpg");
+}
+header h1{
+    text-align: left;
+    padding-top: 30px;
+    margin-right: 200px;
+    margin-left: 10px;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 36px;
+    color:rgb(255, 251, 233);
+    }
+
+nav{
+    text-align: left;
+background-color: white ;
+padding-top: 10px;
+padding-bottom: 10px;
+}
+nav a{
+text-decoration: none;
+padding: 20px;
+margin-left: 10px;
+color: rgb(36, 34, 32);
+font-weight: bold;
+}
+header p{
+    text-align:center;
+padding-left: 30px; 
+padding-bottom: 10px;
+padding-top: 10px;
+color: rgb(63, 62, 62);
+background-color: rgba(255, 255, 255, 0.664) ;
+
+}
+main{
+    background-color:rgb(177, 219, 128); 
+    
+}
+main h2{
+    text-align: center;
+    padding-top: 100px;
+    margin-bottom: 40px;
+    color: rgb(36, 34, 32);
+    margin-left: 30px;
+}
+table{
+    background-color: white;
+    padding: 10px;
+}
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+main h1{
+    margin-left: 30px; 
+    padding-top: 100px; 
+    font-size: 42px;
+}
+main h3{
+    margin-left: 30px; 
+    color: rgb(102, 173, 8);
+    font-size: 28px;
+    font-weight: 100;
+}
+li{
+    text-align: left;
+}
+details{
+    margin-left: 30px;
+}
+details p{
+    color:rgb(255, 251, 233);
+    font-weight: bold;
+    background-color: rgb(88, 163, 58);
+}
+main img{
+    margin-top: 100px;
+}
+footer{
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 100px;
+    text-align:center;
+    font-size: 14px;
+}
+footer a{
+    text-decoration: none;
+    color: green;
+}
+#mark{
+    color: white;
+    
+  }
+  .im{
+    margin-left: 10px; 
+    list-style: url("https://mars.algoritmika.org/uploads/2021/01/нота_0_1610638133.svg");
+ }
